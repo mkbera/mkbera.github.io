@@ -16,7 +16,6 @@ You can find my resume [here](mkbera_resume.pdf)
 ### On sharing aware cache replacement policies | Prof. Mainak Chaudhuri (IIT Kanpur) | Fall 2018
 
 [report](_Fall_2018__IITK__CS622__Project.pdf) | [code](https://github.com/mkbera/multilevel-cache-sim)
------------------------------------------------| ------------------------------------------------------
 1. Worked on improving sharing-aware cache replacement policy for multi-threaded applications.
 2. Integrated parsecmgmt(tool for managing PARSEC programs and kernels) with PIN to generate address trace.
 3. Implemented three level cache architecture to simulate cache replacement policy.
@@ -25,7 +24,6 @@ You can find my resume [here](mkbera_resume.pdf)
 
 ### Trust Region Policy Optimization of POMDPs | Prof. Anima Anandkumar (Caltech) | Summer 2018
 [report](surf-trpo.pdf) | [arxiv](https://arxiv.org/abs/1810.07900)
-----------------| ----------------------
 1. Worked on Generalized Trust Region Policy Optimization Techniques for partially observable environments.
 2. Explored variants of Proximal Policy Optimization Algorithms for POMDP setting (Partially Observable Markov Decision Process).
 3. Looked into limitations of \textit{roboschool} physics engine. Suggested modifications for increasing the convergent episode length of an agent.
