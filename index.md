@@ -30,11 +30,20 @@ You can find my resume [here](mkbera.github.io/error.html)
 5. Used MAX-SAT to minimize sum-of-cost, once the minimum make-span is achieved.
 
 ## Other projects
+
 ### Detecting Semantically Similar Questions | Prof. Harish Karnick (IIT Kanpur) | Spring 2018
 [report](mkbera.github.io/NLP_Report.pdf) [code](mkbera.github.io/error.html)
 1. Formulated methods to detect whether two questions seek same answer.
 2. Reviewed and implemented multiple architectures in Tensorflow from scratch.
 3. Converted the questions to their vector representation and used Siamese Network to construct similarity space.
+
+### Smart Surveillance | Prof. Medha Atre (Oxford University) | Spring 2018
+[report](smart-surv.pdf) [code](error.html)
+1. Came up with automated methods of surveillance.
+2. Used recent developments in NLP to learn a definition of anomaly independent of the setting.
+3. Proposed a context agnostic methodology to detect anomaly.
+4. Proposed a self-reparametrizing model using concepts like Relative Entropy, Conditional Entropy from Information Theory.
+5. Integrated our model with Tensorflow Object Detection API.
 
 
 TODO:
