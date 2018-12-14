@@ -1,11 +1,10 @@
+
 ## About me
 
 I am a senior year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. I am interested in Machine Learning and Formal Methods. I am also interested in prediction technology involved in computer architecture (e.g., cache replacement policy). 
 
-You can find my resume [here]()
-TODO:
-1. upload CV
-2. upload poject reports
+You can find my resume [here](mkbera.github.io/error.md)
+
 
 # Projects
 
@@ -30,4 +29,14 @@ TODO:
 4. Implemented the tool in C++ using the code-base of MiniSAT(a minimalistic, open-source SAT solver).
 5. Used MAX-SAT to minimize sum-of-cost, once the minimum make-span is achieved.
 
+## Other projects
+### Detecting Semantically Similar Questions | Prof. Harish Karnick (IIT Kanpur) | Spring 2018
+[report](mkbera.github.io/NLP_Report.pdf) [code](mkbera.github.io/error.md)
+1. Formulated methods to detect whether two questions seek same answer.
+2. Reviewed and implemented multiple architectures in Tensorflow from scratch.
+3. Converted the questions to their vector representation and used Siamese Network to construct similarity space.
 
+
+TODO:
+1. upload CV
+2. upload poject reports
