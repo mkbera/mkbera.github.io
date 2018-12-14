@@ -40,3 +40,6 @@ You can find my resume [here](mkbera.github.io/error.md)
 TODO:
 1. upload CV
 2. upload poject reports
+
+# Contact
+Email: `bera.manish.kumar@gmail.com`
