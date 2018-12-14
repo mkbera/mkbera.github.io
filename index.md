@@ -2,6 +2,7 @@
 
 I am a senior year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. I am interested in Machine Learning and Formal Methods. I am also interested in prediction technology involved in computer architecture (e.g., cache replacement policy). 
 
+You can find my resume [here]()
 TODO:
 1. upload CV
 2. upload poject reports
@@ -28,4 +29,5 @@ TODO:
 3. Applied various optimization techniques to make clause generation faster.
 4. Implemented the tool in C++ using the code-base of MiniSAT(a minimalistic, open-source SAT solver).
 5. Used MAX-SAT to minimize sum-of-cost, once the minimum make-span is achieved.
+
 
