@@ -14,7 +14,9 @@ You can find my resume [here](mkbera.github.io/error.html)
 3. Proposed an alternating optimization scheme to speed up the multi-task approach.
 
 ### On sharing aware cache replacement policies | Prof. Mainak Chaudhuri (IIT Kanpur) | Fall 2018
-[report](_Fall_2018__IITK__CS622__Project.pdf) [code](https://github.com/mkbera/multilevel-cache-sim)
+
+[report](_Fall_2018__IITK__CS622__Project.pdf) | [code](https://github.com/mkbera/multilevel-cache-sim)
+-----------------------------------------------| ------------------------------------------------------
 1. Worked on improving sharing-aware cache replacement policy for multi-threaded applications.
 2. Integrated parsecmgmt(tool for managing PARSEC programs and kernels) with PIN to generate address trace.
 3. Implemented three level cache architecture to simulate cache replacement policy.
