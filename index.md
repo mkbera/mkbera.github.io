@@ -54,5 +54,5 @@ You can find my resume [here](mkbera_resume.pdf)
 5. Integrated our model with Tensorflow Object Detection API.
 
 # Contact
-Email: `bera.manish.kumar@gmail.com`
+Email: `bera.manish.kumar@gmail.com`  
 github: [mkbera](https://github.com/mkbera)
