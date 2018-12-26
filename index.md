@@ -53,10 +53,6 @@ You can find my resume [here](mkbera_resume.pdf)
 4. Proposed a self-reparametrizing model using concepts like Relative Entropy, Conditional Entropy from Information Theory.
 5. Integrated our model with Tensorflow Object Detection API.
 
-
-TODO:
-1. upload CV
-2. upload poject reports
-
 # Contact
 Email: `bera.manish.kumar@gmail.com`
+github: [mkbera](https://github.com/mkbera)
