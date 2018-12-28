@@ -53,6 +53,10 @@ You can find my resume [here](mkbera_resume.pdf)
 4. Proposed a self-reparametrizing model using concepts like Relative Entropy, Conditional Entropy from Information Theory.
 5. Integrated our model with Tensorflow Object Detection API.
 
+## Some helpful tools/scripts
+1. [utilities](https://github.com/mkbera/utilities): A lock free implementation for parallel programming.
+2. [svm-vis](https://github.com/mkbera/svm-vis): A qudratic programming based tool for SVM visualisation.
+
 # Contact
 Email: `bera.manish.kumar@gmail.com`  
 github: [mkbera](https://github.com/mkbera)
