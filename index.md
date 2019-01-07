@@ -23,11 +23,7 @@ You can find my resume [here](mkbera_resume.pdf)
 4. Proposed modifications to existing evaluation metric of prediction strategy.
 5. Presented a novel modification to existing prediction policy.
 
-### Trust Region Policy Optimization of POMDPs | Prof. Anima Anandkumar (Caltech) | Summer 2018
-[report](surf-trpo.pdf) | [arxiv](https://arxiv.org/abs/1810.07900)
-1. Worked on Generalized Trust Region Policy Optimization Techniques for partially observable environments.
-2. Explored variants of Proximal Policy Optimization Algorithms for POMDP setting (Partially Observable Markov Decision Process).
-3. Looked into limitations of \textit{roboschool} physics engine. Suggested modifications for increasing the convergent episode length of an agent.
+
 
 ### Sat Based Motion Planning of Multi-Robot System
 [report](mkbera.github.io/report.pdf) 
