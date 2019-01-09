@@ -46,8 +46,7 @@ You can find my resume [here](mkbera_resume.pdf)
 1. Came up with automated methods of surveillance.
 2. Used recent developments in NLP to learn a definition of anomaly independent of the setting.
 3. Proposed a context agnostic methodology to detect anomaly.
-4. Proposed a self-reparametrizing model using concepts like Relative Entropy, Conditional Entropy from Information Theory.
-5. Integrated our model with Tensorflow Object Detection API.
+4. Integrated our model with Tensorflow Object Detection API.
 
 ## Some helpful tools/scripts
 1. [utilities](https://github.com/mkbera/utilities): A lock free implementation for parallel programming.
