@@ -14,6 +14,14 @@ You can find my resume [here](mkbera_resume.pdf)
 2. Proposed a clustered multi-task one-class method for multi-label problems.
 3. Proposed an alternating optimization scheme to speed up the multi-task approach.
 
+
+### Trust Region Policy Optimization of POMDPs | Prof. Anima Anandkumar (Caltech) | Summer 2018
+[report](surf-trpo.pdf) 
+1. Worked on Generalized Trust Region Policy Optimization Techniques for partially observable environments.
+2. Explored variants of Proximal Policy Optimization Algorithms for POMDP setting (Partially Observable Markov Decision Process).
+3. Looked into limitations of \textit{roboschool} physics engine. Suggested modifications for increasing the convergent episode length of an agent.
+
+
 ### On sharing aware cache replacement policies | Prof. Mainak Chaudhuri (IIT Kanpur) | Fall 2018
 
 [report](_Fall_2018__IITK__CS622__Project.pdf) | [code](https://github.com/mkbera/multilevel-cache-sim)
