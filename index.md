@@ -60,6 +60,10 @@ You can find my resume [here](mkbera_resume.pdf)
 1. [utilities](https://github.com/mkbera/utilities): A lock free implementation for parallel programming.
 2. [svm-vis](https://github.com/mkbera/svm-vis): A qudratic programming based tool for SVM visualisation.
 
+
+## Notes
+These are short notes of some of the things that I have learnt.
+* SAT solving [link](https://www.overleaf.com/read/hnyswbxnfrnz)
 # Contact
 Email: `bera.manish.kumar@gmail.com`  
 github: [mkbera](https://github.com/mkbera)
