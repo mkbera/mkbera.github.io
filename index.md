@@ -10,7 +10,7 @@ Short resume [here](resume_master%20(1).pdf)
 --->
 
 # Projects
-### Extreme Multi-label Learning via One-Class Classification | Prof. Piyush Rai (IIT Kanpur) | [Ongoing]
+### Multi-label Learning as One-Class Classification | Prof. Piyush Rai (IIT Kanpur) | [Ongoing]
 1. Explored the use of one-class classifiers in solving multi-label classifications problems, both in binary relevance as well as multi-task setting.
 2. Proposed a clustered multi-task one-class method for multi-label problems.
 3. Proposed an alternating optimization scheme to speed up the multi-task approach.
